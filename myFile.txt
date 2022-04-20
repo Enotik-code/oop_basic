@@ -1,0 +1,1 @@
+Client{currentWorkPlace='null', monthsOfWorkInTheLastPlace=0, haveAnotherCredits=false}Human{firstName='name', secondName='surname', patronymic='email', age=12}
